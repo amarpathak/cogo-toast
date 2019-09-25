@@ -13,8 +13,7 @@ https://media.giphy.com/media/jqlSfl9RWX2Gw9Uatj/giphy.gif
 [![License](https://img.shields.io/npm/l/@xstyled/styled-components.svg)](https://github.com/Cogoport/cogo-toast/blob/master/LICENSE)
 
 <p align="center">
-<!-- <img src="docs/static/images/preview.png" alt="cogo-toast-preview" title="cogo-toast-preview"> -->
-<img src = "https://media.giphy.com/media/jqlSfl9RWX2Gw9Uatj/giphy.gif"></img>
+<img src="docs/static/images/types.gif" alt="cogo-toast-preview" title="cogo-toast-preview">
 <p>
 
 ### Install via NPM:
