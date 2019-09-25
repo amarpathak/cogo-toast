@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/npm/l/@xstyled/styled-components.svg)](https://github.com/Cogoport/cogo-toast/blob/master/LICENSE)
 
 <p align="center">
-<img src="docs/static/images/types.gif" alt="cogo-toast-preview" title="cogo-toast-preview">
+<img src="docs/static/images/preview.gif" alt="cogo-toast-preview" title="cogo-toast-preview">
 <p>
 
 ### Install via NPM:
