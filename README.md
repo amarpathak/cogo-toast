@@ -14,7 +14,7 @@ https://media.giphy.com/media/jqlSfl9RWX2Gw9Uatj/giphy.gif
 
 <p align="center">
 <!-- <img src="docs/static/images/preview.png" alt="cogo-toast-preview" title="cogo-toast-preview"> -->
-<img src = "https://media.giphy.com/media/26tPsYL5hA4IEGAfu/giphy.gif"></img>
+<img src = "https://media.giphy.com/media/jqlSfl9RWX2Gw9Uatj/giphy.gif"></img>
 <p>
 
 ### Install via NPM:
