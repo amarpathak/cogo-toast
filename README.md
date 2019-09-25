@@ -3,6 +3,7 @@
 <p align="center" style="font-size: 1.2rem;">Beautiful, Zero Configuration, Toast Messages for React</p>
 <p align="center"><a href="https://cogoport.github.io/cogo-toast/">https://cogoport.github.io/cogo-toast/</a></p>
 
+https://media.giphy.com/media/jqlSfl9RWX2Gw9Uatj/giphy.gif
 [![Dependencies](https://img.shields.io/david/Cogoport/cogo-toast.svg)](https://david-dm.org/Cogoport/cogo-toast.svg)
 [![DevDependencies](https://img.shields.io/david/dev/Cogoport/cogo-toast.svg)](https://david-dm.org/Cogoport/cogo-toast?type=dev)
 [![npm package](https://img.shields.io/npm/v/cogo-toast/latest.svg)](https://www.npmjs.com/package/cogo-toast)
@@ -11,7 +12,10 @@
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 [![License](https://img.shields.io/npm/l/@xstyled/styled-components.svg)](https://github.com/Cogoport/cogo-toast/blob/master/LICENSE)
 
-<p align="center"><img src="docs/static/images/preview.png" alt="cogo-toast-preview" title="cogo-toast-preview"><p>
+<p align="center">
+<!-- <img src="docs/static/images/preview.png" alt="cogo-toast-preview" title="cogo-toast-preview"> -->
+<img src = "https://media.giphy.com/media/26tPsYL5hA4IEGAfu/giphy.gif"></img>
+<p>
 
 ### Install via NPM:
 
